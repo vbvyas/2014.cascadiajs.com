@@ -1,9 +1,9 @@
 #Title of Talk
 
 * Name      : Vinay Vyas
-* Twitter   : [@vbvyas][http://twitter.com/vbvyas]
-* GitHub    : [vbvyas][http://github.com/vbvyas]
-* Website   : [sugar.js][http://sugarjs.com]
+* Twitter   : [@vbvyas](http://twitter.com/vbvyas)
+* GitHub    : [vbvyas](http://github.com/vbvyas)
+* Website   : [sugar.js](http://sugarjs.com)
 
 ##Abstract
 
