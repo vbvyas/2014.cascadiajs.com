@@ -1,9 +1,9 @@
 #Title of Talk
 
-* Name      : Jane Doe
-* Twitter   : [@janedoe][]
-* GitHub    : [janedoe][]
-* Website   : [jane.doe.com][]
+* Name      : Vinay Vyas
+* Twitter   : [@vbvyas][http://twitter.com/vbvyas]
+* GitHub    : [vbvyas][http://github.com/vbvyas]
+* Website   : [sugar.js][http://sugarjs.com]
 
 ##Abstract
 
@@ -15,6 +15,5 @@
 
 I'm a magical sloth that likes to crawl and climb through the forest and sit in the stream and I write code sometimes.
 
-[@janedoe]:http://twitter.com/janedoe
-[janedoe]:http://github.com/janedoe
-[jane.doe.com]:http://jane.doe.com
+[@vbvyas]:http://twitter.com/vbvyas
+[vbvyas]:http://github.com/vbvyas
